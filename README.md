@@ -1,4 +1,4 @@
-# Qwen Vision Language Model Fine-tuning for LaTeX OCR --> takes less than 5 minutes
+# Qwen Vision Language Model Fine-tuning for LaTeX OCR
 
 This project fine-tunes the Qwen2-VL-7B-Instruct model to convert mathematical equation images into their corresponding LaTeX representations using LoRA (Low-Rank Adaptation) for efficient parameter-efficient training.
 
